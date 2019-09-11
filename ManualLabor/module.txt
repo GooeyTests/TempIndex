@@ -1,0 +1,16 @@
+{
+    "id" : "ManualLabor",
+    "version" : "1.2.0-SNAPSHOT",
+    "author" : "Josharias",
+    "displayName" : "Manual Labor",
+    "description" : "Adds tools to make manual tasks like digging and chopping easier.",
+    "dependencies" : [
+        {"id": "Workstation", "minVersion": "1.0.0"},
+        {"id": "Machines", "minVersion": "1.1.1"},
+        {"id": "Durability", "minVersion": "1.0.0"},
+        {"id": "SubstanceMatters", "minVersion": "1.0.0"},
+        {"id": "InGameHelp", "minVersion": "1.0.0"},
+        {"id": "Core", "minVersion": "2.0.0"}
+    ],
+    "isAugmentation": true
+}

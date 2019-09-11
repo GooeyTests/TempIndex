@@ -1,0 +1,23 @@
+{
+    "id" : "MasterOfOreon",
+    "version" : "0.1.1-SNAPSHOT",
+    "author" : "Mike Kienenberger <mkienenb@gmail.com>",
+    "displayName" : "Master Of Oreon",
+    "description" : "Provides a manager interface for working with Terasology\nUse the 'O' key to toggle mouse grab so you can use the interface.",
+    "dependencies" : [
+        {"id" : "Core", "minVersion" : "2.0.0"},
+        {"id" : "Oreons", "minVersion" : "0.2.0"},
+        {"id" : "ChangingBlocks", "minVersion" : "0.1.0"},
+        {"id" : "Behaviors", "minVersion" : "0.2.0"},
+        {"id" : "WorldlyTooltip", "minVersion" : "1.1.1"},
+        {"id" : "NameGenerator", "minVersion" : "0.4.3"},
+        {"id" : "Cities", "minVersion" : "0.6.2"},
+        {"id" : "StructureTemplates", "minVersion" : "0.3.0"},
+        {"id" : "ChiselBlocks", "minVersion" : "0.1.0"},
+        {"id" : "Fences", "minVersion" : "0.1.1"},
+        {"id" : "Books", "minVersion" : "1.0.2"},
+        {"id" : "ItemRendering", "minVersion" : "1.0.2"}
+    ],
+    "isServerSideOnly" : false,
+    "isGameplay" : true
+}

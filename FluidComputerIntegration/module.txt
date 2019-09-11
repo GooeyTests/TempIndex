@@ -1,0 +1,17 @@
+{
+    "id" : "FluidComputerIntegration",
+    "version" : "0.1.1-SNAPSHOT",
+    "author" : "",
+    "displayName" : "FluidComputerIntegration",
+    "description" : "",
+    "dependencies" : [
+        {
+            "id" : "ModularComputers",
+            "minVersion" : "0.1.0"
+        },
+        {
+            "id" : "Fluid",
+            "minVersion" : "1.0.0"
+        }],
+    "isServerSideOnly" : false
+}

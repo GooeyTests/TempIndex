@@ -1,0 +1,11 @@
+{
+  "id": "Mawgooey",
+  "version": "0.1.1-SNAPSHOT",
+  "author": "quaternius",
+  "displayName": "Mawgooey",
+  "description": "Introduces Gooey's 'odd' cousin to the game. Say hi, just don't get too close ..",
+  "dependencies": [
+    {"id" : "WildAnimals", "minVersion" : "0.2.0"}
+  ],
+  "isServerSideOnly": false
+}

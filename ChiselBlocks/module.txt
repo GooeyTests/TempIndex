@@ -1,0 +1,9 @@
+{
+    "id" : "ChiselBlocks",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "Drullkus",
+    "displayName" : "Chisel Blocks",
+    "description" : "A set of block textures from the popular MC mod Chisel",
+    "dependencies" : [],
+    "serverSideOnly" : false
+}

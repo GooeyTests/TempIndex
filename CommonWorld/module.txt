@@ -1,0 +1,9 @@
+{
+    "id" : "CommonWorld",
+    "version" : "0.2.2-SNAPSHOT",
+    "author" : "msteiger",
+    "displayName" : "CommonWorld",
+    "description" : "Provides common classes for different world generators",
+    "dependencies" : [],
+    "isServerSideOnly" : false
+}

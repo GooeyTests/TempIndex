@@ -1,0 +1,12 @@
+{
+    "id": "HjerlHede",
+    "version": "0.1.2-SNAPSHOT",
+    "author": "Terasology Community",
+    "displayName": "HjerlHede",
+    "description": "A build (structure) module for the Hjerl Hede outdoor museum in Denmark",
+    "dependencies": [
+        {"id": "Core", "minVersion": "2.0.0"},
+        {"id": "StructureTemplates", "minVersion": "0.3.0"}
+    ],
+    "serverSideOnly": false
+}

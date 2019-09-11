@@ -1,0 +1,21 @@
+{
+    "id" : "AdditionalWorlds",
+    "version" : "0.2.0-SNAPSHOT",
+    "author" : "",
+    "displayName" : "AdditionalWorlds",
+    "description" : "",
+    "dependencies" : [
+		{
+			"id" : "Core",
+			"minVersion" : "2.0.0"
+		},
+		{
+			"id" : "StructureTemplates",
+			"minVersion" : "0.3.0-SNAPSHOT"
+		},
+		{
+			"id" : "Fences",
+			"minVersion" : "0.1.1-SNAPSHOT"
+		}],
+    "serverSideOnly" : false
+}

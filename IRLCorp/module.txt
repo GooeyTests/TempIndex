@@ -1,0 +1,18 @@
+{
+    "id" : "IRLCorp",
+    "version" : "1.1.2-SNAPSHOT",
+    "author" : "Josharias",
+    "displayName" : "IRL Corp",
+    "description" : "IRL Corp - for the industrialized reduction of labor",
+    "dependencies" :
+    [
+        {"id": "ManualLabor", "minVersion": "1.0.0"},
+        {"id": "Machines", "minVersion": "1.0.0"},
+        {"id": "StructuralResources", "minVersion": "1.0.0"},
+        {"id": "InGameHelp", "minVersion": "1.0.0"},
+        {"id": "Durability", "minVersion": "1.0.0"},
+        {"id": "MultiBlock", "minVersion": "1.0.0"},
+        {"id": "PotentialEnergyDevices", "minVersion": "1.0.0"}
+    ],
+    "isAugmentation": true
+}

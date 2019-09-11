@@ -1,0 +1,11 @@
+{
+    "id" : "SoundyGenetics",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "Soundwave",
+    "displayName" : "SoundyGenetics",
+    "description" : "",
+    "dependencies" : [
+        {"id" : "Inventory", "minVersion" : "1.0.0"}
+    ],
+    "serverSideOnly" : false
+}

@@ -1,0 +1,18 @@
+{
+    "id" : "QuestExamples",
+    "version" : "0.2.0-SNAPSHOT",
+    "author" : "nh_99, msteiger",
+    "displayName" : "QuestExamples",
+    "description" : "A module to show how to make quests to developers.",
+    "dependencies" : [
+        {
+            "id" : "Tasks",
+            "minVersion" : "0.2.0-SNAPSHOT"
+        },
+        {
+            "id" : "Books",
+            "version" : "1.0.2-SNAPSHOT"
+        }
+    ],
+    "isServerSideOnly" : false
+}

@@ -1,0 +1,9 @@
+{
+    "id" : "SegmentedPaths",
+    "version" : "0.2.2-SNAPSHOT",
+    "author" : "",
+    "displayName" : "SegmentedPaths",
+    "description" : "",
+    "dependencies" : [],
+    "serverSideOnly" : false
+}

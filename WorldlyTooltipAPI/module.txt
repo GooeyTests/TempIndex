@@ -1,0 +1,9 @@
+{
+    "id" : "WorldlyTooltipAPI",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "nihal111",
+    "displayName" : "WorldlyTooltipAPI",
+    "description" : "",
+    "dependencies" : [],
+    "serverSideOnly" : false
+}

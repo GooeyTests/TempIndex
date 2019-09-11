@@ -1,0 +1,11 @@
+{
+    "id": "Projectile",
+    "version": "1.0.3-SNAPSHOT",
+    "author": "niksoc",
+    "displayName": "Projectile",
+    "description": "Base module for projectiles",
+    "dependencies": [
+        {"id" : "Core", "minVersion" : "2.0.0"}
+     ],
+    "serverSideOnly": false
+}
